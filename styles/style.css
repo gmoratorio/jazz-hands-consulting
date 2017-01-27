@@ -1,66 +1,78 @@
-.you-selected{
-
-  background-image: url("http://www.orlandodatenightguide.com/wp-content/uploads/2015/06/jazz-instruments.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 60vh;
-
+.you-selected {
+    background-image: url("http://www.orlandodatenightguide.com/wp-content/uploads/2015/06/jazz-instruments.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
 }
 
 h1.selected-text {
-  color: white;
+    color: white;
 }
 
 .rounded-option {
-  background-color: black;
-  border-radius: 50%;
-  height: 10em;
-  width: 10em;
-  margin:auto;
-  margin-bottom: 1em;
+    background-color: black;
+    border-radius: 50%;
+    height: 10em;
+    width: 10em;
+    margin: auto;
+    margin-bottom: 1em;
 }
 
-.flex{
-  display: flex;
-  flex-direction: column;
-
+.flex {
+    display: flex;
+    flex-direction: column;
 }
 
-.pad-top{
-  margin-top: 3em;
+.pad-top {
+    margin-top: 3em;
 }
 
 .hero {
-  margin-top:30vh;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
+    margin-top: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #landingText {
-  color:white;
-  text-align:center;
-  margin-top:30vh;
+    color: white;
+    text-align: center;
+    margin-top: 30vh;
 }
 
 #getStarted {
-  padding: 1em 3em;
-  font-size: 2em;
-  color:white;
-  background: #4a0d6d;
-  border: 1px solid #4a0d6d;
+    padding: 1em 3em;
+    font-size: 2em;
+    color: white;
+    background: #4a0d6d;
+    border: 1px solid #4a0d6d;
 }
-
 
 #confirmHands {
-  padding: 1em 3em;
-  font-size: 2em;
-  color:white;
-  background: #4a0d6d;
-  border: 1px solid #4a0d6d;
+    padding: 1em 3em;
+    font-size: 2em;
+    color: white;
+    background: #4a0d6d;
+    border: 1px solid #4a0d6d;
 }
 
-.picker-wrapper{
-  max-width: 700px;
+.picker-wrapper {
+    max-width: 700px;
+    margin: auto;
+}
+
+.congrats-hands {
+    margin: auto;
+    margin-top: 5em;
+}
+
+.thanks{
+  display: block;
+  margin-top: 2em;
+}
+
+.tiny-hands{
+  width: 60vw;
   margin:auto;
+
 }
