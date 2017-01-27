@@ -1,0 +1,31 @@
+.you-selected{
+
+  background-image: url("http://www.orlandodatenightguide.com/wp-content/uploads/2015/06/jazz-instruments.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+
+}
+
+h1.selected-text {
+  color: white;
+}
+
+.rounded-option {
+  background-color: black;
+  border-radius: 50%;
+  height: 10em;
+  width: 10em;
+  margin:auto;
+}
+
+.flex{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.pad-top{
+  margin-top: 3em;
+
+}
