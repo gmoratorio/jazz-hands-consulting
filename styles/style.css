@@ -1,3 +1,4 @@
+
 .hero {
   margin-top:30vh;
   display:flex;
@@ -18,9 +19,11 @@
   background: #4a0d6d;
   border: 1px solid #4a0d6d;
 }
-body {
-  /*background-color: #cccccc;*/
-  background-image: url('../assets/hero-hands.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
+
+#confirmHands {
+  padding: 1em 3em;
+  font-size: 2em;
+  color:white;
+  background: #4a0d6d;
+  border: 1px solid #4a0d6d;
 }
