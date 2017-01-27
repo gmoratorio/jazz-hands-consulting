@@ -17,6 +17,7 @@ h1.selected-text {
   height: 10em;
   width: 10em;
   margin:auto;
+  margin-bottom: 1em;
 }
 
 .flex{
@@ -49,12 +50,7 @@ h1.selected-text {
   background: #4a0d6d;
   border: 1px solid #4a0d6d;
 }
-body {
-  /*background-color: #cccccc;*/
-  background-image: url('../assets/hero-hands.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 
 #confirmHands {
   padding: 1em 3em;
@@ -62,4 +58,9 @@ body {
   color:white;
   background: #4a0d6d;
   border: 1px solid #4a0d6d;
+}
+
+.picker-wrapper{
+  max-width: 700px;
+  margin:auto;
 }
